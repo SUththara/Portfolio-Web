@@ -200,8 +200,9 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/01.jpg);
+	background-image: url(./img/02.jpg);
 	background-size:contain, cover;
+	background-repeat: no-repeat;
 	background-position: top center;
 	position: relative;
 	z-index: 1;
